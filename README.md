@@ -1,4 +1,4 @@
-# This week's Schedule (3/3 - 3/9)
+# This week's Schedule (2/23 - 2/29)
 
 ## Lecture
 + Stats Overview and Review (No slides, using Jupyter Notebook)
